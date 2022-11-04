@@ -6,28 +6,22 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+
 
 }
 
 
 
 body{
-    height: 1024px;
-    width: 1440px;
     background-image: url(fundo.png);
     background-size: cover;
-    background-repeat: no-repeat;
+   
 
 
 }
 
 .desenvolvedor{
     text-align: center;
-    width: 206px;
-    height: 29px;
-    margin-left: 616px;
-    margin-top: 265px;
     color: #FFFFFF;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
@@ -35,8 +29,8 @@ body{
     line-height: 29px;
 }
 .davi-bandeira{
-    width: 421px;
-    height: 120px;
+
+   
     text-align: center;
     color: #FFFFFF;
     font-family: 'Kanit', sans-serif;
@@ -44,7 +38,7 @@ body{
     font-size: 80px;
     line-height: 120px;
     font-style: normal;
-    margin-left: 509px;
+ 
 }
 
 .web-desktop{
@@ -55,4 +49,37 @@ body{
     line-height: 29px;
     text-align: center;
     color:#FFFFFF; 
+}
+.projeto-no-github{
+    
+    margin-top: 55px;
+    
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.camada-escura{
+    background: rgba(0,0,0,0.5);
+    height: 100vh
+}
+.textos{
+    margin-top: 265px;
+}
+
+.t1{
+    width: 429px;
+    height: 280px;
+}
+.t2{
+    width: 429px;
+    height: 280px;
+}
+.t3{
+    width: 429px;
+    height: 280px;
 }
