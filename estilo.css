@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Outfit:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+body{
+    height: 1024px;
+    width: 1440px;
+    background-image: url(fundo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.desenvolvedor{
+    text-align: center;
+    width: 206px;
+    height: 29px;
+    margin-left: 616px;
+    margin-top: 265px;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+.davi-bandeira{
+    width: 421px;
+    height: 120px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 120px;
+    font-style: normal;
+    margin-left: 509px;
+}
+
+.web-desktop{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color:#FFFFFF; 
+}
