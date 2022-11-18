@@ -68,15 +68,25 @@ body{
     height: 100vh
 }
 
-.t1{
-    width: 429px;
-    height: 280px;
+.projeto1{
+    margin-top: 100px;
+    margin-left: 60px;
+    width: 300px;
+    height: 200px;
 }
-.t2{
-    width: 429px;
-    height: 280px;
+
+.projeto2{
+    margin-top: 200px;
+    margin-left: 200px;
+    width: 300px;
+    height: 200px;
 }
-.t3{
-    width: 429px;
-    height: 280px;
+
+.projeto3{
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 300px;
+    height: 200px;
 }
+
+
