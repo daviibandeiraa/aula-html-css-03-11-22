@@ -12,15 +12,15 @@
 
 
 
-body{
+body {
     background-image: url(fundo.png);
     background-size: cover;
-   
+
 
 
 }
 
-.desenvolvedor{
+.desenvolvedor {
     text-align: center;
     color: #FFFFFF;
     font-family: 'Lato', sans-serif;
@@ -28,9 +28,10 @@ body{
     font-size: 24px;
     line-height: 29px;
 }
-.davi-bandeira{
 
-   
+.davi-bandeira {
+
+
     text-align: center;
     color: #FFFFFF;
     font-family: 'Kanit', sans-serif;
@@ -38,22 +39,23 @@ body{
     font-size: 80px;
     line-height: 120px;
     font-style: normal;
- 
+
 }
 
-.web-desktop{
+.web-desktop {
     font-family: 'Lato', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 29px;
     text-align: center;
-    color:#FFFFFF; 
+    color: #FFFFFF;
 }
-.projeto-no-github{
-    
 
-    
+.projeto-no-github {
+
+
+
     font-family: 'Lato', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -63,30 +65,28 @@ body{
     color: #FFFFFF;
 }
 
-.camada-escura{
-    background: rgba(0,0,0,0.5);
+.camada-escura {
+    background: rgba(0, 0, 0, 0.5);
     height: 100vh
 }
 
-.projeto1{
+.projeto1 {
     margin-top: 100px;
     margin-left: 60px;
     width: 300px;
     height: 200px;
 }
 
-.projeto2{
+.projeto2 {
     margin-top: 200px;
     margin-left: 200px;
     width: 300px;
     height: 200px;
 }
 
-.projeto3{
+.projeto3 {
     margin-top: 100px;
     margin-left: 150px;
     width: 300px;
     height: 200px;
 }
-
-
